@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lap_trinh_web\\WebApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|d:\\lap_trinh_web\\webapp1\\webapp1\\controllers\\mynew2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\mynew2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|d:\\lap_trinh_web\\webapp1\\webapp1\\views\\mynew2\\caidat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\mynew2\\caidat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|d:\\lap_trinh_web\\webapp1\\webapp1\\views\\mynew2\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\mynew2\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|d:\\lap_trinh_web\\webapp1\\webapp1\\views\\mynew1\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\mynew1\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|d:\\lap_trinh_web\\webapp1\\webapp1\\controllers\\mynew1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\mynew1controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|d:\\lap_trinh_web\\webapp1\\webapp1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|d:\\lap_trinh_web\\webapp1\\webapp1\\views\\mynew1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\mynew1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|d:\\lap_trinh_web\\webapp1\\webapp1\\views\\mynew1\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\views\\mynew1\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|d:\\lap_trinh_web\\webapp1\\webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|d:\\lap_trinh_web\\webapp1\\webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3C084B-B23B-4213-B721-DFA063E162AE}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaiDat.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Mynew2\\CaiDat.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Mynew2\\CaiDat.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Mynew2\\CaiDat.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Mynew2\\CaiDat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T15:07:57.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangChu.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Mynew2\\TrangChu.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Mynew2\\TrangChu.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Mynew2\\TrangChu.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Mynew2\\TrangChu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T15:06:41.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "error.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Mynew1\\error.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Mynew1\\error.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Mynew1\\error.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Mynew1\\error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T15:02:18.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mynew2Controller.cs",
+              "DocumentMoniker": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Controllers\\Mynew2Controller.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Controllers\\Mynew2Controller.cs",
+              "ToolTip": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Controllers\\Mynew2Controller.cs",
+              "RelativeToolTip": "WebApp1\\Controllers\\Mynew2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T14:56:02.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Mynew1\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Mynew1\\Index.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Mynew1\\Index.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Mynew1\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T14:43:18.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T14:36:51.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mynew1Controller.cs",
+              "DocumentMoniker": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Controllers\\Mynew1Controller.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Controllers\\Mynew1Controller.cs",
+              "ToolTip": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Controllers\\Mynew1Controller.cs",
+              "RelativeToolTip": "WebApp1\\Controllers\\Mynew1Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T14:21:42.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sample.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Mynew1\\Sample.cshtml",
+              "RelativeDocumentMoniker": "WebApp1\\Views\\Mynew1\\Sample.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Views\\Mynew1\\Sample.cshtml",
+              "RelativeToolTip": "WebApp1\\Views\\Mynew1\\Sample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T14:48:06.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Program.cs",
+              "ToolTip": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Program.cs",
+              "RelativeToolTip": "WebApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T14:06:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\lap_trinh_web\\WebApp1\\WebApp1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA3wBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T14:05:25.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
