@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace WebApp1.Controllers
+namespace Day02Lab.Controllers
 {
     public class Mynew1Controller : Controller
     {
