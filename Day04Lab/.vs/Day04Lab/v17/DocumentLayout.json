@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lap_trinh_web\\Day04Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|d:\\lap_trinh_web\\day04lab\\day04lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|solutionrelative:day04lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|d:\\lap_trinh_web\\day04lab\\day04lab\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|solutionrelative:day04lab\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|d:\\lap_trinh_web\\day04lab\\day04lab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|solutionrelative:day04lab\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|d:\\lap_trinh_web\\day04lab\\day04lab\\views\\shared\\_adminfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|solutionrelative:day04lab\\views\\shared\\_adminfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|d:\\lap_trinh_web\\day04lab\\day04lab\\views\\shared\\_adminsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|solutionrelative:day04lab\\views\\shared\\_adminsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|d:\\lap_trinh_web\\day04lab\\day04lab\\views\\shared\\_adminnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6630699A-B0D9-467C-B21B-318BA0068283}|Day04Lab\\Day04Lab.csproj|solutionrelative:day04lab\\views\\shared\\_adminnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day04Lab\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day04Lab\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:50:01.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Day04Lab\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Day04Lab\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T14:05:07.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_AdminSidebar.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\Shared\\_AdminSidebar.cshtml",
+              "RelativeDocumentMoniker": "Day04Lab\\Views\\Shared\\_AdminSidebar.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\Shared\\_AdminSidebar.cshtml",
+              "RelativeToolTip": "Day04Lab\\Views\\Shared\\_AdminSidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:49:22.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminFooter.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\Shared\\_AdminFooter.cshtml",
+              "RelativeDocumentMoniker": "Day04Lab\\Views\\Shared\\_AdminFooter.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\Shared\\_AdminFooter.cshtml",
+              "RelativeToolTip": "Day04Lab\\Views\\Shared\\_AdminFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:49:52.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Day04Lab\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Day04Lab\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:48:10.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AdminNavbar.cshtml",
+              "DocumentMoniker": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\Shared\\_AdminNavbar.cshtml",
+              "RelativeDocumentMoniker": "Day04Lab\\Views\\Shared\\_AdminNavbar.cshtml",
+              "ToolTip": "D:\\lap_trinh_web\\Day04Lab\\Day04Lab\\Views\\Shared\\_AdminNavbar.cshtml",
+              "RelativeToolTip": "Day04Lab\\Views\\Shared\\_AdminNavbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T13:48:53.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
