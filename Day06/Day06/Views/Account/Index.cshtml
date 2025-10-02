@@ -1,0 +1,49 @@
+﻿@model List<Day06.Models.Account>
+
+@{
+    ViewData["Title"] = "Danh sách tài khoản";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create" style="text-decoration: underline; color: blue;">Create New</a>
+
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Họ và tên</th>
+            <th>Địa chỉ Email</th>
+            <th>Số điện thoại</th>
+            <th>Địa chỉ thuòng trú</th>
+            <th>Ảnh đại diện</th>
+            <th>Ngày sinh</th>
+            <th>Mật khẩu</th>
+            <th>Link Facebook cá nhân</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.FullName</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>@item.Address</td>
+                <td><img src="@item.Avatar" width="50" /></td>
+                <td>@item.Birthday.ToShortDateString()</td>
+                <td>@item.Password</td>
+                <td><a href="@item.Facebook" target="_blank">Facebook</a></td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Sửa</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Chi tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
